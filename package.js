@@ -2,7 +2,7 @@ Package.describe({
   name: 'sanjay:layer7',
   summary: 'Layer7 OAuth flow',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/sanjay-shah/sanjay-layer7.git'
 });
 
 Package.onUse(function(api) {
